@@ -1,0 +1,5 @@
+body {
+    background-image: url(/Movie_Review/assets/Images/BackgroundImage/rm218-bb-07.jpg); /* Replace with your actual image URL */
+    background-size: cover; /* Ensure the image covers the entire body */
+    background-position: center; /* Center the image horizontally and vertically */
+  }
